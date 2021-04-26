@@ -1,0 +1,18 @@
+Aula aeróbica;7
+Bicicleta;7
+Futebol de salao;11
+Pular corda;11
+Artes Marciais;14
+Corrida;18
+Patinacao;17
+Futebol;9
+Alongamento/Ioga;3
+Natacao;9
+Tenis;11
+Esteira;16
+Volei;4
+Caminhada lenta;3
+Caminhada media;7
+Caminhada rapida;8
+Polo aquatico;14
+Musculacao;8
